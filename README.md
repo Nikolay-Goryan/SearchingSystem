@@ -1,6 +1,6 @@
 ## SearchingSystem
 
-This project implements a simple searching system. The programm gets the documents (each document is of line in input file) and the list of of requests (words and phrases that have to be found in given documents). The programm returns the list of maximum 5 documents for each request, in which the the words from request were found.
+This project implements a simple searching system. The programm gets the documents (each document is one line in input file) and the list of requests (words and phrases that have to be found in given documents). The programm returns the list of maximum 5 documents for each request, in which the words from request were found.
 
 ### Example
 
